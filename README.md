@@ -9,21 +9,21 @@ Hello! I'm Julian, a passionate software developer based in Sofia, Bulgaria. I l
 
 ## 🚀 Featured Projects:
 
-### [Koshnichka](https://koshnichka.net):
+### [Koshnichka.net](https://koshnichka.net):
 Your personal discount detective! A platform for finding the best deals and making bargain shopping a breeze.
 - **Sign up and dive in**: Register, authenticate, and manage your profile with ease.
 - **Smooth sailing**: Reset passwords, verify your email, and enjoy a secure experience.
 - **Treasure map**: Search for discounted products effectively.
 - [GitHub Repo](https://github.com/Julian-Krem/comparison-of-discounts) (available upon request)
 
-### [Trip Weaver](https://trip-weaver.com):
+### [Trip-Weaver.com](https://trip-weaver.com):
 Your ultimate travel buddy for organizing trips and connecting with fellow travelers.
 - **Join the fun**: Login/Logout, customize profiles with avatars, create feedback loops, manage trips.
 - **Drive the adventure**: Drivers can manage travel plans, set departure times, approve passengers, and share feedback.
 - **Oversee the journey**: Admins keep everything running smoothly by managing user accounts and travel listings.
 - [GitHub Repo](https://github.com/PlamenIliaYulian/trip-weaver.com)
 
-### [Learn Spring Boot](https://learn-springboot.com):
+### [Learn-SpringBoot.com](https://learn-springboot.com):
 A community forum for Java enthusiasts and Spring Boot fans to share knowledge and grow together.
 - **Dive into discussion**: Login/Logout, create and comment on posts, edit content, and like/dislike posts.
 - **Profile perks**: Browse and edit profiles, upload pictures, and connect with fellow developers.
