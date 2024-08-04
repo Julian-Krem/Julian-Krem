@@ -11,7 +11,6 @@ Hello! I'm Julian, a passionate software developer based in Sofia, Bulgaria. I l
 
 ### [Koshnichka](https://koshnichka.net):
 Your personal discount detective! A platform for finding the best deals and making bargain shopping a breeze.
-- **Tech Stack**:
 - **Sign up and dive in**: Register, authenticate, and manage your profile with ease.
 - **Smooth sailing**: Reset passwords, verify your email, and enjoy a secure experience.
 - **Treasure map**: Search for discounted products effectively.
