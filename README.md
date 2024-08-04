@@ -6,7 +6,6 @@ Hello! I'm Julian, a passionate software developer based in Sofia, Bulgaria. I l
 
 ## 🌐 Connect with Me:
 - Email: julian.kremenski@gmail.com
-- GitHub: [Julian-Krem](https://github.com/Julian-Krem)
 
 ## 🚀 Featured Projects:
 
