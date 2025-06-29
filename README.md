@@ -39,32 +39,4 @@ Hello! I'm Julian, a passionate software developer based in Sofia, Bulgaria. I l
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 </div>
 
-## 🚀 Featured Projects:
-
-### [Koshnichka.net](https://koshnichka.net):
-Your personal discount detective! A platform for finding the best deals and making bargain shopping a breeze.
-- **Sign up and dive in**: Register, authenticate, and manage your profile with ease.
-- **Smooth sailing**: Reset passwords, verify your email, and enjoy a secure experience.
-- **Treasure map**: Search for discounted products effectively.
-- [GitHub Repo](https://github.com/Julian-Krem/comparison-of-discounts) (available upon request)
-
-### [Trip-Weaver.com](https://trip-weaver.com):
-Your ultimate travel buddy for organizing trips and connecting with fellow travelers.
-- **Join the fun**: Login/Logout, customize profiles with avatars, create feedback loops, manage trips.
-- **Drive the adventure**: Drivers can manage travel plans, set departure times, approve passengers, and share feedback.
-- **Oversee the journey**: Admins keep everything running smoothly by managing user accounts and travel listings.
-- [GitHub Repo](https://github.com/PlamenIliaYulian/trip-weaver.com)
-
-### [Learn-SpringBoot.com](https://learn-springboot.com):
-A community forum for Java enthusiasts and Spring Boot fans to share knowledge and grow together.
-- **Dive into discussion**: Login/Logout, create and comment on posts, edit content, and like/dislike posts.
-- **Profile perks**: Browse and edit profiles, upload pictures, and connect with fellow developers.
-- **Admin arsenal**: Block or delete users, assign roles, and keep the forum buzzing.
-- [GitHub Repo](https://github.com/PlamenIliaYulian/Web_Forum)
-
-## 🏋️ Beyond Coding:
-When I'm not coding, you can find me pushing my limits in CrossFit. I believe that reaching the boundaries of physical endurance has shaped me into the person I am today, both professionally and personally.
-
----
-
 💡 I'm always open to interesting projects and collaborations. Feel free to reach out if you'd like to connect or discuss potential opportunities!
